@@ -1,0 +1,14 @@
+mp,0a.pre2016,0b.baseline_prb,0c.baseline_crb,0d.baseline_techalt,1.Proposed,2.Alternative
+gaswellsite,bau,ogi_annual,ogi_semiannual,ogi_annual,ogi_semiannual,ogi_semiannual
+oilassocgaswellsite,bau,ogi_annual,ogi_semiannual,ogi_annual,ogi_semiannual,ogi_semiannual
+oilwellsite,bau,ogi_annual,ogi_semiannual,ogi_annual,ogi_semiannual,ogi_semiannual
+lp_gaswellsite,bau,ogi_biennial,ogi_semiannual,ogi_biennial,ogi_semiannual,ogi_semiannual
+lp_oilassocgaswellsite,bau,ogi_biennial,ogi_semiannual,ogi_biennial,ogi_semiannual,ogi_semiannual
+lp_oilwellsite,bau,ogi_biennial,ogi_semiannual,ogi_biennial,ogi_semiannual,ogi_semiannual
+AK-NS wells,bau,ogi_annual,ogi_annual,ogi_annual,ogi_annual,ogi_annual
+gbstation,bau,ogi_semiannual,ogi_quarterly,ogi_annual,ogi_quarterly,ogi_quarterly
+transstation,bau,ogi_semiannual,ogi_quarterly,ogi_annual,bau,ogi_quarterly
+storstation,bau,ogi_semiannual,ogi_quarterly,ogi_annual,bau,ogi_quarterly
+AK-NS G&B compr stns,bau,ogi_annual,ogi_quarterly,ogi_annual,ogi_quarterly,ogi_quarterly
+AK-NS T&S compr stns,bau,ogi_annual,ogi_quarterly,ogi_annual,bau,ogi_quarterly
+cert,no_cert,inhouse_cert,pe_cert,inhouse_cert,no_cert,pe_cert
